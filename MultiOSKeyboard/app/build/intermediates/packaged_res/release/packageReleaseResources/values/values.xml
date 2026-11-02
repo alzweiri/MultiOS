@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiOS Keyboard</string>
+    <string name="ime_name">MultiOS Keyboard</string>
+    <string name="subtype_ar">العربية</string>
+    <string name="subtype_en_us">English (US)</string>
+    <style name="Theme.MultiOSKeyboard" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

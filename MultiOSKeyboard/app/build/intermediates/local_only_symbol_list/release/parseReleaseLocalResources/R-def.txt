@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_keyboard_launcher
+string app_name
+string ime_name
+string subtype_ar
+string subtype_en_us
+style Theme.MultiOSKeyboard
+xml method

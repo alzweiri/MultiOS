@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.multios.keyboard-release-44:/drawable_ic_keyboard_launcher.xml.flat",
+        "source": "com.multios.keyboard-main-45:/drawable/ic_keyboard_launcher.xml"
+    },
+    {
+        "merged": "com.multios.keyboard-release-44:/xml_method.xml.flat",
+        "source": "com.multios.keyboard-main-45:/xml/method.xml"
+    }
+]

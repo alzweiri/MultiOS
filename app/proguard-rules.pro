@@ -1,0 +1,2 @@
+-keep class com.galaxy.m21.desktop.** { *; }
+-dontwarn android.os.SystemProperties

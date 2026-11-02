@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiOS</string>
+    <string name="accessibility_service_desc">Allows MultiOS Launcher to open the native Android Recents screen from the side tab or Control Center.</string>
+</resources>
